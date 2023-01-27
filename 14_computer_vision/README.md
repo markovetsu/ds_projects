@@ -16,3 +16,7 @@
 В нашем распоряжении одна папка со всеми изображениями (/final_files) и CSV-файл labels.csv с двумя колонками: file_name и real_age.
 
 Извлечь данные из папки нам поможет метод **ImageDataGenerator** —flow_from_dataframe(dataframe, directory, ...).
+
+# Используемые библиотеки
+
+Python, Pandas, Keras, Matplotlib
