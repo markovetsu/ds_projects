@@ -32,3 +32,7 @@
 
 pandas, python, matplotlib, statsmodels
 
+# Статус проекта 
+
+Завершен
+
