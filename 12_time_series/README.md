@@ -26,3 +26,7 @@
 # Используемые библиотеки
 
 python, pandas, scikit-learn, statsmodels
+
+# Статус проекта 
+
+Завершен
