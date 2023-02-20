@@ -23,3 +23,7 @@
 # Используемые библиотеки
 
 pandas, python, pandas, matplotlib, scikit-learn
+
+# Статус проекта 
+
+Завершен
