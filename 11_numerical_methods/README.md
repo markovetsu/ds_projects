@@ -40,3 +40,7 @@
 # Используемые библиотеки
 
 pandas, python, LGBMRegressor, LinearRegression
+
+# Статус проекта 
+
+Завершен
